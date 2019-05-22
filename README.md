@@ -9,6 +9,11 @@ Earthquake data from a start date to an end date can be accessed using the follo
 
 https://laravel-api-client.herokuapp.com/fetch?starttime=[StartDate]&endtime=[EndDate]
 
+OR 
+
+For earthquake between 2019-05-01 and 2019-05-02
+https://laravel-api-client.herokuapp.com/fetch
+
 ## NB
 The date used here follows the ISO-8601 timestamps format(YYYY-MM-DD). 
 eg. 2019-05-01
