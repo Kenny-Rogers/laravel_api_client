@@ -93,7 +93,10 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div> -->
-              
+                <h3>Requested for earthquake data from {{ $startDate}} to {{ $endDate }}</h3>
+
+                <h4>The response is</h4>
+                <textarea rows="12" style="width:100%;">{{ $result }}</textarea>
             </div>
         </div>
     </body>
