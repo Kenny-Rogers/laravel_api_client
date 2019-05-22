@@ -12,6 +12,7 @@ https://laravel-api-client.herokuapp.com/fetch?starttime=[StartDate]&endtime=[En
 OR 
 
 For earthquake between 2019-05-01 and 2019-05-02
+
 https://laravel-api-client.herokuapp.com/fetch
 
 ## NB
