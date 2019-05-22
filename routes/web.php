@@ -14,5 +14,5 @@
 // Route::get('/', function () {
 //     return view('welcome');
 // });
-Route::get('/', 'ClientCRUDController@welcome');
+Route::get('/', 'ClientCRUDController@home');
 Route::get('/fetch', 'ClientCRUDController@fetchData');
