@@ -6,6 +6,7 @@ This application is hosted on [this address](https://laravel-api-client.herokuap
 
 ## Fetching/Reading earthquake data
 Earthquake data from a start date to an end date can be accessed by accessing the following route 
+
 https://laravel-api-client.herokuapp.com/fetch?starttime=[StartDate]&endtime=[EndDate]
 
 ## NB
