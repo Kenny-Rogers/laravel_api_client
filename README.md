@@ -5,7 +5,7 @@ Laravel Api Client is a web application that makes use of a Web API _(USGCS eart
 This application is hosted on [this address](https://laravel-api-client.herokuapp.com) and can be accessed freely.
 
 ## Fetching/Reading earthquake data
-Earthquake data from a start date to an end date can be accessed by accessing the following route 
+Earthquake data from a start date to an end date can be accessed by accessing the following route  
 https://laravel-api-client.herokuapp.com/fetch?starttime=[StartDate]&endtime=[EndDate]
 
 ## NB
